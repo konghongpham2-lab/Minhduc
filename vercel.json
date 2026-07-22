@@ -8,6 +8,6 @@
     }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "api.py" }
+    { "src": "/(.*)", "dest": "main.py" }
   ]
 }
